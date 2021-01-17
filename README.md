@@ -42,7 +42,7 @@ TypeScript
         ┣ 📜tslint.json
         ┣ 📜yarn.lock
 
-## The task can be found [here](https://github.com/adefemi171)
+## The task can be found [here](https://github.com/adefemi171/random-joke-proj/blob/master/Docs/Fullstack_Engineer_Test_ReactNode.pdf)
 
 # How to setup project and run locally
 
