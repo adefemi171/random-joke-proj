@@ -7,3 +7,4 @@ export const createSchema = async () =>{
     resolvers: [__dirname + "/resolvers/**/*.resolver.ts"],
   });
 }
+
