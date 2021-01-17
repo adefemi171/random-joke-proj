@@ -1,11 +1,10 @@
 {
-   "name": "type-graphql-boilerplate",
+   "name": "Random Joke",
    "version": "1.0.0",
-   "description": "I will always be needing this boilerplate for my projects. Support for sessions, redis and postgresql.",
+   "description": "SovTech Task for ChuckNorris API",
    "main": "src/index.js",
-   "repository": "git@github.com:t0nyandre/type-graphql-boilerplate.git",
-   "author": "Tony Andre Haugen <post@tonyandre.co>",
-   "license": "MIT",
+   "repository": "git@github.com:adefemi171/random-joke-proj.git",
+   "author": "Adefemi Micheal<adefemi171@gmail.com>",
    "private": true,
    "dependencies": {
       "@types/dotenv": "^6.1.0",
