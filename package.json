@@ -19,7 +19,8 @@
       "reflect-metadata": "^0.1.10",
       "ts-node": "^9.1.1",
       "type-graphql": "^0.16.0",
-      "typedi": "^0.10.0"
+      "typedi": "^0.10.0",
+      "typescript": "^3.9.7"
    },
    "devDependencies": {
       "@babel/core": "^7.12.10",
@@ -30,8 +31,7 @@
       "@types/node": "^10.12.20",
       "ts-node-dev": "^1.0.0-pre.32",
       "tslint-config-prettier": "^1.17.0",
-      "tslint-eslint-rules": "^5.4.0",
-      "typescript": "^3.9.7"
+      "tslint-eslint-rules": "^5.4.0"
    },
    "scripts": {
       "start": "ts-node src/index.ts",
