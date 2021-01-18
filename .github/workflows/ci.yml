@@ -25,7 +25,6 @@ jobs:
         git config --global user.name "adefemi171"
         git config --global user.email "adefemi171@gmail.com"
         git add -A
-        git commit -m "Added new config"
     - name: Login to heroku and deploy
       uses: akhileshns/heroku-deploy@v3.6.8
       with:
