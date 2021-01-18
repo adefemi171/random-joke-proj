@@ -25,8 +25,8 @@ jobs:
         git config --global user.name "adefemi171"
         git config --global user.email "adefemi171@gmail.com"
         git add -A
+        heroku git:remote -a chuck-joke-backend
     - name: Login to heroku and deploy
-      run: heroku git:remote -a chuck-joke-backend
       uses: akhileshns/heroku-deploy@v3.8.9
       with:
           heroku_api_key: ${{ secrets.HEROKU_API_KEY }}
