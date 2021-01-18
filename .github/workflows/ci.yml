@@ -29,4 +29,3 @@ jobs:
           heroku_app_name: "chuck-joke-backend"
           heroku_email: $ {{ secrets.USER_EMAIL }}
           branch: "master"
-          procfile: "web:ts-node/src/index.ts"
