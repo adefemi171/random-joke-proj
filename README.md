@@ -2,7 +2,7 @@
 
 
 
-First I cloned this ![Boilerplate](https://github.com/t0nyandre/type-graphql-boilerplate)
+First I cloned this [Boilerplate](https://github.com/t0nyandre/type-graphql-boilerplate)
 
 # App Details
 .......
@@ -92,4 +92,4 @@ query{
 
 ```
 
-More categories can be found ![here](https://api.chucknorris.io/jokes/categories) and also more random jokes can be found ![here](https://api.chucknorris.io/jokes/random)
+More categories can be found [here](https://api.chucknorris.io/jokes/categories) and also more random jokes can be found [here](https://api.chucknorris.io/jokes/random)
